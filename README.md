@@ -4,9 +4,14 @@
 
 ©2023 Crunchysteve filthynoisesmusic@gmail.com
 
-A project *template* ntended for use with building simple ATMEGA 328PU 
+A project *template* intended for use with building simple ATMEGA 328PU 
 projects on DIP28 ICs and using the internal 8 MHz clock, which is handy 
 for miniature devices and use with custom PCBs.
+
+For instructions on how to setup 328p chips for standalone applications
+see...
+
+[wolles-elektronikkiste.de](https://wolles-elektronikkiste.de/en/using-the-atmega328p-standalone)
 
 Crunchysteve's idea is to use 328p chips for functions in, and control
 of, guitar effects pedals. While this is open source and free software, 
